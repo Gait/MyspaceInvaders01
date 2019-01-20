@@ -29,6 +29,7 @@ export default class Game {
 
 	showObjects() {
 		console.log(this.gameObjects);
+		
 	}
 
 	draw(ctx) {
